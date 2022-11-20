@@ -8,5 +8,6 @@ public class git {
         System.out.println("hot-fix merge test!!!");
         System.out.println("master conflict merge test!!!");
         System.out.println("hot-fix conflict merge test!!!");
+        System.out.println("test for pull~~~~~~");
     }
 }
