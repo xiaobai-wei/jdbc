@@ -10,5 +10,6 @@ public class git {
         System.out.println("hot-fix conflict merge test!!!");
         System.out.println("test for pull~~~~~~");
         System.out.println("test for push~~~");
+        System.out.println("modified on github for pull test");
     }
 }
